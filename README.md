@@ -145,6 +145,3 @@ Feedstock Maintainers
 
 * [@maurosilber](https://github.com/maurosilber/)
 
-
-<!-- dummy commit to enable rerendering -->
-
