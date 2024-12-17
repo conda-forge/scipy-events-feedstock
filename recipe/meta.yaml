@@ -1,5 +1,5 @@
 {% set name = "scipy-events" %}
-{% set version = "0.3.1" %}
+{% set version = "0.4.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/scipy_events-{{ version }}.tar.gz
-  sha256: 9b9b1a926583e14e372e17519c489c1d61befc796127f9ec8980209ad1ef721e
+  sha256: a1f8a9dd357887a23155d9fd741bf527f92d47be2f90d753065907cad75f8c97
 
 build:
   noarch: python
